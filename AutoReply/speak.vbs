@@ -1,0 +1,2 @@
+Set Speak=CreateObject("sapi.spvoice")
+Speak.Speak " Hello, Python Developer here! Welcome to the world of Python . Python Developer: "Python is a great community of people who use Python's Python language""
